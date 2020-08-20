@@ -11,6 +11,7 @@ public class GitClass {
         System.out.println("test");
         System.out.println("test");
         System.out.println("test");
+        //你好
     }
 
     public void test(){
@@ -18,5 +19,6 @@ public class GitClass {
         System.out.println("aaa");
         System.out.println("aaa");
         System.out.println("aaa");
+        System.out.println("bb");
     }
 }
