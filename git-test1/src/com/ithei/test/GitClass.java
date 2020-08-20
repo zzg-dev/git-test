@@ -12,4 +12,11 @@ public class GitClass {
         System.out.println("test");
         System.out.println("test");
     }
+
+    public void test(){
+        System.out.println("aaa");
+        System.out.println("aaa");
+        System.out.println("aaa");
+        System.out.println("aaa");
+    }
 }
